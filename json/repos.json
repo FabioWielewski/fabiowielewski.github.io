@@ -1,5 +1,15 @@
 [
     {
+        "name": "Scrum master",
+        "url": "https://www.linkedin.com/in/fabiowielewski/details/experience/",
+        "description": "Me coloco a disposição com pessoas interessadas e recrutadores que queiram conversar.",
+        "banner": "https://dkrn4sk0rn31v.cloudfront.net/2019/05/08153808/curriculo-destaque.png",
+        "color": "#b07219",
+        "lang": "Scrum Master, Agile, Kanban",
+        "date": "2022-05-01T14:24:46Z",
+        "stars": 10,
+        "forks": 2
+    {
         "name": "ASV Consultores associados",
         "url": "https://asv.com.br/",
         "description": "Prestava suporte, treinamentos, analises do sistema, prototipagem, participava de reuniões juntamente com o time de desenvolvimento e administrativo, criando layouts com os requisitos levantados, testando e implantando as soluções nos clientes, trabalhava junto aos stakeholders buscando melhorias para o desenvolvimento de inovações.",
@@ -44,25 +54,14 @@
         "forks": 8
     },
     {
-        "name": "movieinfo",
-        "url": "https://github.com/PtPrashantTripathi/movieinfo",
-        "description": "Movie info app built with OMDb API that gets movie info from IMDb and Rotten Tomatoes.",
-        "banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
+        "name": "VirtualRoom",
+        "url": "http://www.virtualroom.com.br/",
+        "description": "Atendimento e assessoria a clientes, nossa empresa desenvolvia Sistemas Web.Resultados Obtidos: Tive a oportunidade de conhecer clientes de diversos setores, utilizando técnicas de Levantamento de Requisitos, Análise de sistemas, Entrevista, Prototipação, Brainstorming, participação e acompanhamento dos projetos, como resultado agregava valor e força de trabalho aos clientes atendidos.",
+        "banner": "http://www.virtualroom.com.br/assets/inspinia-master/img/logo.png",
         "color": "#e34c26",
-        "lang": "HTML",
-        "date": "2020-10-06T10:02:13Z",
-        "stars": 5,
-        "forks": 2
-    },
-    {
-        "name": "shreeganesh",
-        "url": "https://github.com/PtPrashantTripathi/shreeganesh",
-        "description": "This Astrology Android app provide solution of your life problem, based upon Krishna Jyotish Padathi.",
-        "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
-        "color": "#b07219",
-        "lang": "Java",
-        "date": "2019-03-20T14:24:46Z",
-        "stars": 11,
+        "lang": "Head de Tecnologia",
+        "date": "2004-02-06T10:02:13Z",
+        "stars": 10,
         "forks": 2
     }
 ]
