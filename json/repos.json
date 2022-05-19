@@ -33,17 +33,6 @@
         "forks": 10
     },
     {
-        "name": "Instituto Mix",
-        "url": "https://www.institutomix.com.br/a-empresa/",
-        "description": "A capacitação de jovens ao mercado de trabalho, este projeto teve grande prestigio pela comunidade local, certamente alunos do IM e Instituições beneficiaram-se, meu maior aprendizado foi ser o mediador do conhecimento, agregando valor indicando que o poder pela busca da informação, pode sim ser utilizado como agente de mudança na vida de pessoas.",
-        "banner": "https://1.bp.blogspot.com/-DoKY9Po0uMU/V7NCLH6-aJI/AAAAAAAAC7A/ljp0g9tF3p8FY8xG87xAo2J_w1gWP77EwCLcB/s1600/instituto%2Bmix%2Bfoto.jpg",
-        "color": "#e34c26",
-        "lang": "Professor de Tecnologia",
-        "date": "2020-09-28T13:58:21Z",
-        "stars": 6,
-        "forks": 2
-    },
-    {
         "name": "Speed Software",
         "url": "https://weecode.com.br/site/",
         "description": "Trabalhava em prol da implantação e manutenção dos sistemas, além de fazer análises de dados e montagem de diversos relatórios específicos a cada cliente. Devido ao trabalho em conjunto das equipes no Brasil agregamos muito conhecimento e valor ao negócio.",
@@ -63,6 +52,17 @@
         "lang": "Head de Tecnologia",
         "date": "2004-02-06T10:02:13Z",
         "stars": 10,
+        "forks": 2
+	},
+    {
+        "name": "Instituto Mix",
+        "url": "https://www.institutomix.com.br/a-empresa/",
+        "description": "A capacitação de jovens ao mercado de trabalho, este projeto teve grande prestigio pela comunidade local, certamente alunos do IM e Instituições beneficiaram-se, meu maior aprendizado foi ser o mediador do conhecimento, agregando valor indicando que o poder pela busca da informação, pode sim ser utilizado como agente de mudança na vida de pessoas.",
+        "banner": "https://1.bp.blogspot.com/-DoKY9Po0uMU/V7NCLH6-aJI/AAAAAAAAC7A/ljp0g9tF3p8FY8xG87xAo2J_w1gWP77EwCLcB/s1600/instituto%2Bmix%2Bfoto.jpg",
+        "color": "#e34c26",
+        "lang": "Professor de Tecnologia",
+        "date": "2020-09-28T13:58:21Z",
+        "stars": 6,
         "forks": 2
     }
 ]
