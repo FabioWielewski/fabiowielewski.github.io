@@ -79,7 +79,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
  	<tr>
 		<td align="center">
 			<a href="https://github.com/ptprashanttripathi">
-				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
+				<img src="https://avatars.githubusercontent.com/u/21228480?s=460&amp;v=4" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
