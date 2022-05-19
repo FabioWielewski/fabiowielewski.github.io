@@ -64,38 +64,5 @@
         "date": "2019-03-20T14:24:46Z",
         "stars": 11,
         "forks": 2
-    },
-    {
-        "name": "cloud-storage-system",
-        "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
-        "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/36814a493733712358a875162bbe496c5ad0d9c260867ad9bc0e7d7c9780dcd0/PtPrashantTripathi/cloud-storage-system",
-        "color": "#b07219",
-        "lang": "Java",
-        "date": "2019-04-08T19:14:55Z",
-        "stars": 7,
-        "forks": 1
-    },
-    {
-        "name": "Adhyatma",
-        "url": "https://github.com/PtPrashantTripathi/Adhyatma",
-        "description": "An Emotional State vedic scripture Quotes Serach Engain",
-        "banner": "https://opengraph.githubassets.com/077996def3dc70a9666a95d98448bed4b4c0f61c07e56b6d9bc0cdb6e487e156/PtPrashantTripathi/Adhyatma",
-        "color": "#4F5D95",
-        "lang": "PHP",
-        "date": "2019-03-12T18:04:10Z",
-        "stars": 8,
-        "forks": 1
-    },
-    {
-        "name": "php-social-networking-site",
-        "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
-        "description": "A social Networking Site for student to show there project works and skills",
-        "banner": "https://opengraph.githubassets.com/8f3a2ca49d0df272bc1b45092fc3566b9c8080a32a4e2069bf1285c828b79a4f/PtPrashantTripathi/php-social-networking-site",
-        "color": "#4F5D95",
-        "lang": "PHP",
-        "date": "2019-02-23T17:05:29Z",
-        "stars": 7,
-        "forks": 0
     }
 ]
