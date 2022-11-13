@@ -1,6 +1,6 @@
-<p align="center"><a href="https://ptprashanttripathi.github.io"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
+<p align="center"><a href="https://fabiowielewski.github.io/"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
 <p align="center">
-	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
+	<a href="https://fabiowielewski.github.io/"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/ptprashanttripathi.github.io.svg?style=flat-square"/></a>
 	<a href="https://ptprashanttripathi.github.io"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
@@ -8,9 +8,9 @@
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/ptprashanttripathi.github.io/total.svg?style=flat-square"/></a>
 </p>
 <p align="center">
-	<a href="https://ptprashanttripathi.github.io">View Demo</a>·
-	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/issues/new/choose">Report Bug</a>·
-	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/issues/new/choose">Request Feature</a>
+	<a href="https://fabiowielewski.github.io/">View Demo</a>·
+	<a href="https://github.com/fabiowielewski/fabiowielewski.github.io/issues/new/choose">Report Bug</a>·
+	<a href="https://github.com/fabiowielewski/fabiowielewski.github.io/issues/new/choose">Request Feature</a>
 </p>
 <p align="center">
 	<i>Loved the tool? Please consider <a href="https://paypal.me/ptprashanttripathi/100">donating</a> 💸 to help it improve!</i><br>
@@ -71,14 +71,14 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/ptprashanttripathi">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+				<a href="https://fabiowielewski.github.io/">
+					<sub><b>Fábio Wielewski</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
-			<a href="https://github.com/ptprashanttripathi">
+			<a href="https://fabiowielewski.github.io/">
 				<img src="https://avatars.githubusercontent.com/u/21228480?s=460&amp;v=4" width="100px;" alt=""/>
 			</a>
 		</td>
